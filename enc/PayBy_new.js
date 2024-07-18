@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded',body);
         },1000);
         }
   
-}
+
 
 
 
@@ -192,7 +192,6 @@ function clickOnOtp()
             }
         },1000);
         }
-     
     }
     
     function f1()
